@@ -1,0 +1,21 @@
+{
+  "name": "wit-tmdb",
+  "version": "0.1.0",
+  "description": "Wit bot to search movies using TMDB API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imdb",
+    "wit",
+    "facebook"
+  ],
+  "author": "Pranav",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "node-wit": "^3.0.0",
+    "superagent": "^1.8.3"
+  }
+}
